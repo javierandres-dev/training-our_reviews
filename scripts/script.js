@@ -5,35 +5,35 @@ const db = [
     fullname: 'linda johnson',
     role: 'ceo',
     review:
-      'Nam eros tellus, fringilla vitae accumsan sodales, tincidunt pretium purus. Nam tempus mauris quam, eft faucibus diam cursus id. Curabitur dapibus blandit ex nec viverra. Donec justo erat, maximus fermentum erat at, semper tincidunt libero. In sodalzes risus a accumsan efficitur.',
+      'Suspendisse vitae dapibus magna. Ut in ornare nulla, quis finibus sem. Vivamus libero leo, dapibus sit amet fringilla nec, sodales ac erat. Orci varius natoque penatibhus et magnis dis parturient montes, nascetur ridiculus mus. Fusce at diam et tellus gravida dapibus et eu justo.',
     photo: 'profile_1',
   },
   {
     fullname: 'john brown',
     role: 'coo',
     review:
-      'Nullam dolor orci, aliquam eu nunc id, tristique fermentum eros. Aliquam eget porta massdfsa. Etiam at qdfeuam ac eros luctdus imperdiet. Mauris tincidunt quam a metus sagittis, eu dignissim nunc mollis. Maecenas nisi sapien, tempus eerrrfytu facilisis maximus, blandit sed dolor.',
+      'Fusce quam libero, vulputate quis tellus fringilla, blandit iaculis ante. Vestibulum quis tincidunt purus. Nunc congue, dolor id venenatis ornare, velit est faucibus orci, sit amet euismod sapien tellus ac ipsum. Duis porta dolor vitae tincidunt rutrum. Sed iaculis felis ut puru.',
     photo: 'profile_2',
   },
   {
     fullname: 'robert smith',
     role: 'cfo',
     review:
-      'Vivamus rutqodrpgrum felis ut velit euismod pellentesque. Etiadm molrestie suscipit nulla dignissim gravida. Proin volutpat massa nisi, a euismod ex semper vitae. Sed csmngpriuon sequat, eros a varius laqrucj cinia, arcu sapien pretium justo, non vestibulum arcu tellus et libero.',
+      'Vestibulum quis dapibus est, et bibendum nibh. Aliquam erat volutpat. In feugiat laoreet turpis eu iaculis. Quisque ultrices odio viverra imperdiet consequat. Etiam dapibus magna at ullamcorper laoreet. Aenean turpis arcu, dapibus nec augue in, bibendum mattis metus. Etiam a orc.',
     photo: 'profile_3',
   },
   {
     fullname: 'michael davis',
     role: 'cmo',
     review:
-      'Curabitur convsballis augue qusuis tellus ultdrices finibus. Integer eget nibh in lorem cursus vestibulum. Praesent tincidunt in purus ut imperdiet. Donsipec blandfdit, lorefqm a sagittis tempus, metus dui ferm enfoptum diam, sswmhed scele risque leo arcvgiu egrjoppret ligulayda.',
+      'Mauris semper hendrerit ante, ut rutrum ipsum dapibus ac. Etiam maximus fermentum turpis quis tincidunt. Donec dolor urna, mattis eget congue eget, commodo quis libero. Phasellus ut mi tortor. Fusce non tellus quis massa luctus venenatis. Curabitur faucibus metus quis iaculis tempor. Vivamus vulputate, lorem non porta aliquet, ipsum est bibendum nibh, at facilisis mauris arhrc.',
     photo: 'profile_4',
   },
   {
     fullname: 'william miller',
     role: 'cto',
     review:
-      'Nam congue dignissim ullamcorper. Pellentesque pharetra semper laoreet. Morbi ac  ex semper vita libero augue. Donec hendrerit sem sed vulputate bibendum. In scelerisque  met magna eu ligula varius feugiat sit dapibus blandit viverra. Donec justo erat, maximus erat amet at risus.',
+      'Phasellus efficitur nisi ante, nec lobortis nisi lobortis ac. Etiam ut tortor mi. Aliquam non augue hendrerit metus rutrum dictum et sed nunc. Proin ac ipsum at risus finibus elementum vel hendrerit neque. Phasellus at hendrerit ex. Etiam rutrum at arcu Quisquez maximus interdum.',
     photo: 'profile_5',
   },
 ];
